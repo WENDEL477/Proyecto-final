@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+h2{
+    text-decoration: dashed;
+    color: beige;
+}

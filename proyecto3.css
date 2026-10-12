@@ -1,0 +1,13 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blue;
+    color: cadetblue;
+}
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+h2{
+    text-align: justify;
+    color: cyan;
+}
